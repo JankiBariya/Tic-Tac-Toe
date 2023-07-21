@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Game made with Python
+AI Game made with Python
